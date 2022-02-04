@@ -1,0 +1,30 @@
+[
+    {
+        "id": "366459b9-658d-45ba-a744-b8db28fd38eb",
+        "nome": "Tosa",
+        "preco": 20,
+        "descricao": "Corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "88f310e4-b623-41e2-8c19-85bde7148681",
+        "nome": "Banho",
+        "preco": 20,
+        "descricao": "Corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "88f310e4-b623-41e2-8c19-85bde71486",
+        "nome": "Corte de unha",
+        "preco": 20,
+        "descricao": "Corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "df702f14-256a-459d-bfe9-d131adb9bb15",
+        "nome": "CAROLINA FREITAS DE ALMEIDA",
+        "preco": "67",
+        "descricao": "gtgt",
+        "fotoURL": "ilustracao1643845152767.jpg"
+    }
+]
