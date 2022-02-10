@@ -17,6 +17,7 @@ const cadastroController = {
       if(senha !== confirmaSenha){
          return res.render('cadastro', {erro: 'Senhas não coincidem'});
       };
+      
 
       const usuario = {
           id: uuidv4.uuid(),
